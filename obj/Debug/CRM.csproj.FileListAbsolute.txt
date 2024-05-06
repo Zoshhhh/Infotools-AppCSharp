@@ -1,0 +1,206 @@
+E:\BTS\2eme Année\AP\Application Lourde C#\CRM\bin\Debug\CRM.exe.config
+E:\BTS\2eme Année\AP\Application Lourde C#\CRM\bin\Debug\CRM.exe
+E:\BTS\2eme Année\AP\Application Lourde C#\CRM\bin\Debug\CRM.pdb
+E:\BTS\2eme Année\AP\Application Lourde C#\CRM\obj\Debug\CRM.csprojAssemblyReference.cache
+E:\BTS\2eme Année\AP\Application Lourde C#\CRM\obj\Debug\FenetreLogin.g.cs
+E:\BTS\2eme Année\AP\Application Lourde C#\CRM\obj\Debug\App.g.cs
+E:\BTS\2eme Année\AP\Application Lourde C#\CRM\obj\Debug\CRM_MarkupCompile.cache
+E:\BTS\2eme Année\AP\Application Lourde C#\CRM\obj\Debug\CRM_MarkupCompile.lref
+E:\BTS\2eme Année\AP\Application Lourde C#\CRM\obj\Debug\FenetreLogin.baml
+E:\BTS\2eme Année\AP\Application Lourde C#\CRM\obj\Debug\CRM.g.resources
+E:\BTS\2eme Année\AP\Application Lourde C#\CRM\obj\Debug\CRM.Properties.Resources.resources
+E:\BTS\2eme Année\AP\Application Lourde C#\CRM\obj\Debug\CRM.csproj.GenerateResource.cache
+E:\BTS\2eme Année\AP\Application Lourde C#\CRM\obj\Debug\CRM.csproj.CoreCompileInputs.cache
+E:\BTS\2eme Année\AP\Application Lourde C#\CRM\obj\Debug\CRM.exe
+E:\BTS\2eme Année\AP\Application Lourde C#\CRM\obj\Debug\CRM.pdb
+E:\BTS\2eme Année\AP\Application Lourde C#\CRM\bin\Debug\BouncyCastle.Crypto.dll
+E:\BTS\2eme Année\AP\Application Lourde C#\CRM\bin\Debug\Google.Protobuf.dll
+E:\BTS\2eme Année\AP\Application Lourde C#\CRM\bin\Debug\K4os.Compression.LZ4.dll
+E:\BTS\2eme Année\AP\Application Lourde C#\CRM\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\BTS\2eme Année\AP\Application Lourde C#\CRM\bin\Debug\K4os.Hash.xxHash.dll
+E:\BTS\2eme Année\AP\Application Lourde C#\CRM\bin\Debug\MySql.Data.dll
+E:\BTS\2eme Année\AP\Application Lourde C#\CRM\bin\Debug\System.Buffers.dll
+E:\BTS\2eme Année\AP\Application Lourde C#\CRM\bin\Debug\System.Memory.dll
+E:\BTS\2eme Année\AP\Application Lourde C#\CRM\bin\Debug\System.Numerics.Vectors.dll
+E:\BTS\2eme Année\AP\Application Lourde C#\CRM\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\BTS\2eme Année\AP\Application Lourde C#\CRM\bin\Debug\Ubiety.Dns.Core.dll
+E:\BTS\2eme Année\AP\Application Lourde C#\CRM\bin\Debug\ZstdNet.dll
+E:\BTS\2eme Année\AP\Application Lourde C#\CRM\bin\Debug\BouncyCastle.Crypto.xml
+E:\BTS\2eme Année\AP\Application Lourde C#\CRM\bin\Debug\Google.Protobuf.pdb
+E:\BTS\2eme Année\AP\Application Lourde C#\CRM\bin\Debug\Google.Protobuf.xml
+E:\BTS\2eme Année\AP\Application Lourde C#\CRM\bin\Debug\K4os.Compression.LZ4.xml
+E:\BTS\2eme Année\AP\Application Lourde C#\CRM\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\BTS\2eme Année\AP\Application Lourde C#\CRM\bin\Debug\K4os.Hash.xxHash.xml
+E:\BTS\2eme Année\AP\Application Lourde C#\CRM\bin\Debug\MySql.Data.xml
+E:\BTS\2eme Année\AP\Application Lourde C#\CRM\bin\Debug\System.Buffers.xml
+E:\BTS\2eme Année\AP\Application Lourde C#\CRM\bin\Debug\System.Memory.xml
+E:\BTS\2eme Année\AP\Application Lourde C#\CRM\bin\Debug\System.Numerics.Vectors.xml
+E:\BTS\2eme Année\AP\Application Lourde C#\CRM\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\BTS\2eme Année\AP\Application Lourde C#\CRM\obj\Debug\CRM.csproj.CopyComplete
+E:\BTS\2eme Année\AP\Application Lourde C#\CRM\obj\Debug\FenetrePrincipale.g.cs
+E:\BTS\2eme Année\AP\Application Lourde C#\CRM\obj\Debug\FenetrePrincipale.baml
+E:\BTS\2eme Annee\AP\Application Lourde C#\CRM\bin\Debug\CRM.exe.config
+E:\BTS\2eme Annee\AP\Application Lourde C#\CRM\bin\Debug\CRM.exe
+E:\BTS\2eme Annee\AP\Application Lourde C#\CRM\bin\Debug\CRM.pdb
+E:\BTS\2eme Annee\AP\Application Lourde C#\CRM\bin\Debug\BouncyCastle.Crypto.dll
+E:\BTS\2eme Annee\AP\Application Lourde C#\CRM\bin\Debug\Google.Protobuf.dll
+E:\BTS\2eme Annee\AP\Application Lourde C#\CRM\bin\Debug\K4os.Compression.LZ4.dll
+E:\BTS\2eme Annee\AP\Application Lourde C#\CRM\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\BTS\2eme Annee\AP\Application Lourde C#\CRM\bin\Debug\K4os.Hash.xxHash.dll
+E:\BTS\2eme Annee\AP\Application Lourde C#\CRM\bin\Debug\MySql.Data.dll
+E:\BTS\2eme Annee\AP\Application Lourde C#\CRM\bin\Debug\System.Buffers.dll
+E:\BTS\2eme Annee\AP\Application Lourde C#\CRM\bin\Debug\System.Memory.dll
+E:\BTS\2eme Annee\AP\Application Lourde C#\CRM\bin\Debug\System.Numerics.Vectors.dll
+E:\BTS\2eme Annee\AP\Application Lourde C#\CRM\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\BTS\2eme Annee\AP\Application Lourde C#\CRM\bin\Debug\Ubiety.Dns.Core.dll
+E:\BTS\2eme Annee\AP\Application Lourde C#\CRM\bin\Debug\ZstdNet.dll
+E:\BTS\2eme Annee\AP\Application Lourde C#\CRM\bin\Debug\BouncyCastle.Crypto.xml
+E:\BTS\2eme Annee\AP\Application Lourde C#\CRM\bin\Debug\Google.Protobuf.pdb
+E:\BTS\2eme Annee\AP\Application Lourde C#\CRM\bin\Debug\Google.Protobuf.xml
+E:\BTS\2eme Annee\AP\Application Lourde C#\CRM\bin\Debug\K4os.Compression.LZ4.xml
+E:\BTS\2eme Annee\AP\Application Lourde C#\CRM\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\BTS\2eme Annee\AP\Application Lourde C#\CRM\bin\Debug\K4os.Hash.xxHash.xml
+E:\BTS\2eme Annee\AP\Application Lourde C#\CRM\bin\Debug\MySql.Data.xml
+E:\BTS\2eme Annee\AP\Application Lourde C#\CRM\bin\Debug\System.Buffers.xml
+E:\BTS\2eme Annee\AP\Application Lourde C#\CRM\bin\Debug\System.Memory.xml
+E:\BTS\2eme Annee\AP\Application Lourde C#\CRM\bin\Debug\System.Numerics.Vectors.xml
+E:\BTS\2eme Annee\AP\Application Lourde C#\CRM\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\BTS\2eme Annee\AP\Application Lourde C#\CRM\obj\Debug\FenetreLogin.g.cs
+E:\BTS\2eme Annee\AP\Application Lourde C#\CRM\obj\Debug\FenetrePrincipale.g.cs
+E:\BTS\2eme Annee\AP\Application Lourde C#\CRM\obj\Debug\App.g.cs
+E:\BTS\2eme Annee\AP\Application Lourde C#\CRM\obj\Debug\CRM_MarkupCompile.cache
+E:\BTS\2eme Annee\AP\Application Lourde C#\CRM\obj\Debug\CRM_MarkupCompile.lref
+E:\BTS\2eme Annee\AP\Application Lourde C#\CRM\obj\Debug\FenetreLogin.baml
+E:\BTS\2eme Annee\AP\Application Lourde C#\CRM\obj\Debug\FenetrePrincipale.baml
+E:\BTS\2eme Annee\AP\Application Lourde C#\CRM\obj\Debug\CRM.g.resources
+E:\BTS\2eme Annee\AP\Application Lourde C#\CRM\obj\Debug\CRM.Properties.Resources.resources
+E:\BTS\2eme Annee\AP\Application Lourde C#\CRM\obj\Debug\CRM.csproj.GenerateResource.cache
+E:\BTS\2eme Annee\AP\Application Lourde C#\CRM\obj\Debug\CRM.csproj.CoreCompileInputs.cache
+E:\BTS\2eme Annee\AP\Application Lourde C#\CRM\obj\Debug\CRM.csproj.CopyComplete
+E:\BTS\2eme Annee\AP\Application Lourde C#\CRM\obj\Debug\CRM.exe
+E:\BTS\2eme Annee\AP\Application Lourde C#\CRM\obj\Debug\CRM.pdb
+E:\BTS\2eme Annee\AP\Application Lourde C#\CRM\obj\Debug\CRM.csprojAssemblyReference.cache
+F:\BTS\2eme Annee\AP\Application Lourde C#\CRM\bin\Debug\CRM.exe.config
+F:\BTS\2eme Annee\AP\Application Lourde C#\CRM\bin\Debug\CRM.exe
+F:\BTS\2eme Annee\AP\Application Lourde C#\CRM\bin\Debug\CRM.pdb
+F:\BTS\2eme Annee\AP\Application Lourde C#\CRM\bin\Debug\BouncyCastle.Crypto.dll
+F:\BTS\2eme Annee\AP\Application Lourde C#\CRM\bin\Debug\Google.Protobuf.dll
+F:\BTS\2eme Annee\AP\Application Lourde C#\CRM\bin\Debug\K4os.Compression.LZ4.dll
+F:\BTS\2eme Annee\AP\Application Lourde C#\CRM\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\BTS\2eme Annee\AP\Application Lourde C#\CRM\bin\Debug\K4os.Hash.xxHash.dll
+F:\BTS\2eme Annee\AP\Application Lourde C#\CRM\bin\Debug\MySql.Data.dll
+F:\BTS\2eme Annee\AP\Application Lourde C#\CRM\bin\Debug\System.Buffers.dll
+F:\BTS\2eme Annee\AP\Application Lourde C#\CRM\bin\Debug\System.Memory.dll
+F:\BTS\2eme Annee\AP\Application Lourde C#\CRM\bin\Debug\System.Numerics.Vectors.dll
+F:\BTS\2eme Annee\AP\Application Lourde C#\CRM\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\BTS\2eme Annee\AP\Application Lourde C#\CRM\bin\Debug\Ubiety.Dns.Core.dll
+F:\BTS\2eme Annee\AP\Application Lourde C#\CRM\bin\Debug\ZstdNet.dll
+F:\BTS\2eme Annee\AP\Application Lourde C#\CRM\bin\Debug\BouncyCastle.Crypto.xml
+F:\BTS\2eme Annee\AP\Application Lourde C#\CRM\bin\Debug\Google.Protobuf.pdb
+F:\BTS\2eme Annee\AP\Application Lourde C#\CRM\bin\Debug\Google.Protobuf.xml
+F:\BTS\2eme Annee\AP\Application Lourde C#\CRM\bin\Debug\K4os.Compression.LZ4.xml
+F:\BTS\2eme Annee\AP\Application Lourde C#\CRM\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\BTS\2eme Annee\AP\Application Lourde C#\CRM\bin\Debug\K4os.Hash.xxHash.xml
+F:\BTS\2eme Annee\AP\Application Lourde C#\CRM\bin\Debug\MySql.Data.xml
+F:\BTS\2eme Annee\AP\Application Lourde C#\CRM\bin\Debug\System.Buffers.xml
+F:\BTS\2eme Annee\AP\Application Lourde C#\CRM\bin\Debug\System.Memory.xml
+F:\BTS\2eme Annee\AP\Application Lourde C#\CRM\bin\Debug\System.Numerics.Vectors.xml
+F:\BTS\2eme Annee\AP\Application Lourde C#\CRM\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\BTS\2eme Annee\AP\Application Lourde C#\CRM\obj\Debug\CRM.csproj.AssemblyReference.cache
+F:\BTS\2eme Annee\AP\Application Lourde C#\CRM\obj\Debug\CRM.csproj.SuggestedBindingRedirects.cache
+F:\BTS\2eme Annee\AP\Application Lourde C#\CRM\obj\Debug\FenetreLogin.g.cs
+F:\BTS\2eme Annee\AP\Application Lourde C#\CRM\obj\Debug\FenetrePrincipale.g.cs
+F:\BTS\2eme Annee\AP\Application Lourde C#\CRM\obj\Debug\App.g.cs
+F:\BTS\2eme Annee\AP\Application Lourde C#\CRM\obj\Debug\CRM_MarkupCompile.cache
+F:\BTS\2eme Annee\AP\Application Lourde C#\CRM\obj\Debug\CRM_MarkupCompile.lref
+F:\BTS\2eme Annee\AP\Application Lourde C#\CRM\obj\Debug\FenetreLogin.baml
+F:\BTS\2eme Annee\AP\Application Lourde C#\CRM\obj\Debug\FenetrePrincipale.baml
+F:\BTS\2eme Annee\AP\Application Lourde C#\CRM\obj\Debug\CRM.g.resources
+F:\BTS\2eme Annee\AP\Application Lourde C#\CRM\obj\Debug\CRM.Properties.Resources.resources
+F:\BTS\2eme Annee\AP\Application Lourde C#\CRM\obj\Debug\CRM.csproj.GenerateResource.cache
+F:\BTS\2eme Annee\AP\Application Lourde C#\CRM\obj\Debug\CRM.csproj.CoreCompileInputs.cache
+F:\BTS\2eme Annee\AP\Application Lourde C#\CRM\obj\Debug\CRM.csproj.CopyComplete
+F:\BTS\2eme Annee\AP\Application Lourde C#\CRM\obj\Debug\CRM.exe
+F:\BTS\2eme Annee\AP\Application Lourde C#\CRM\obj\Debug\CRM.pdb
+C:\Users\mcampos\Desktop\CRM\obj\Debug\CRM.csproj.AssemblyReference.cache
+C:\Users\mcampos\Desktop\CRM\obj\Debug\FenetreLogin.g.cs
+C:\Users\mcampos\Desktop\CRM\obj\Debug\FenetrePrincipale.g.cs
+C:\Users\mcampos\Desktop\CRM\obj\Debug\App.g.cs
+C:\Users\mcampos\Desktop\CRM\obj\Debug\CRM_MarkupCompile.cache
+C:\Users\mcampos\Desktop\CRM\obj\Debug\CRM_MarkupCompile.lref
+C:\Users\mcampos\Desktop\CRM\obj\Debug\CRM.exe
+C:\Users\mcampos\Desktop\CRM\obj\Debug\CRM.pdb
+C:\Users\mcampos\Desktop\CRM\bin\Debug\CRM.exe.config
+C:\Users\mcampos\Desktop\CRM\bin\Debug\CRM.exe
+C:\Users\mcampos\Desktop\CRM\bin\Debug\CRM.pdb
+C:\Users\mcampos\Desktop\CRM\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\mcampos\Desktop\CRM\bin\Debug\Google.Protobuf.dll
+C:\Users\mcampos\Desktop\CRM\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\mcampos\Desktop\CRM\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\mcampos\Desktop\CRM\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\mcampos\Desktop\CRM\bin\Debug\MySql.Data.dll
+C:\Users\mcampos\Desktop\CRM\bin\Debug\System.Buffers.dll
+C:\Users\mcampos\Desktop\CRM\bin\Debug\System.Memory.dll
+C:\Users\mcampos\Desktop\CRM\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\mcampos\Desktop\CRM\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mcampos\Desktop\CRM\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\mcampos\Desktop\CRM\bin\Debug\ZstdNet.dll
+C:\Users\mcampos\Desktop\CRM\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\mcampos\Desktop\CRM\bin\Debug\Google.Protobuf.pdb
+C:\Users\mcampos\Desktop\CRM\bin\Debug\Google.Protobuf.xml
+C:\Users\mcampos\Desktop\CRM\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\mcampos\Desktop\CRM\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\mcampos\Desktop\CRM\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\mcampos\Desktop\CRM\bin\Debug\MySql.Data.xml
+C:\Users\mcampos\Desktop\CRM\bin\Debug\System.Buffers.xml
+C:\Users\mcampos\Desktop\CRM\bin\Debug\System.Memory.xml
+C:\Users\mcampos\Desktop\CRM\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\mcampos\Desktop\CRM\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\mcampos\Desktop\CRM\obj\Debug\FenetreLogin.baml
+C:\Users\mcampos\Desktop\CRM\obj\Debug\FenetrePrincipale.baml
+C:\Users\mcampos\Desktop\CRM\obj\Debug\CRM.g.resources
+C:\Users\mcampos\Desktop\CRM\obj\Debug\CRM.Properties.Resources.resources
+C:\Users\mcampos\Desktop\CRM\obj\Debug\CRM.csproj.GenerateResource.cache
+C:\Users\mcampos\Desktop\CRM\obj\Debug\CRM.csproj.CoreCompileInputs.cache
+C:\Users\mcampos\Desktop\CRM\obj\Debug\CRM.csproj.CopyComplete
+D:\UwAmp\www\CRM\bin\Debug\CRM.exe.config
+D:\UwAmp\www\CRM\bin\Debug\CRM.exe
+D:\UwAmp\www\CRM\bin\Debug\CRM.pdb
+D:\UwAmp\www\CRM\bin\Debug\BouncyCastle.Crypto.dll
+D:\UwAmp\www\CRM\bin\Debug\Google.Protobuf.dll
+D:\UwAmp\www\CRM\bin\Debug\K4os.Compression.LZ4.dll
+D:\UwAmp\www\CRM\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\UwAmp\www\CRM\bin\Debug\K4os.Hash.xxHash.dll
+D:\UwAmp\www\CRM\bin\Debug\MySql.Data.dll
+D:\UwAmp\www\CRM\bin\Debug\System.Buffers.dll
+D:\UwAmp\www\CRM\bin\Debug\System.Memory.dll
+D:\UwAmp\www\CRM\bin\Debug\System.Numerics.Vectors.dll
+D:\UwAmp\www\CRM\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\UwAmp\www\CRM\bin\Debug\Ubiety.Dns.Core.dll
+D:\UwAmp\www\CRM\bin\Debug\ZstdNet.dll
+D:\UwAmp\www\CRM\bin\Debug\BouncyCastle.Crypto.xml
+D:\UwAmp\www\CRM\bin\Debug\Google.Protobuf.pdb
+D:\UwAmp\www\CRM\bin\Debug\Google.Protobuf.xml
+D:\UwAmp\www\CRM\bin\Debug\K4os.Compression.LZ4.xml
+D:\UwAmp\www\CRM\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\UwAmp\www\CRM\bin\Debug\K4os.Hash.xxHash.xml
+D:\UwAmp\www\CRM\bin\Debug\MySql.Data.xml
+D:\UwAmp\www\CRM\bin\Debug\System.Buffers.xml
+D:\UwAmp\www\CRM\bin\Debug\System.Memory.xml
+D:\UwAmp\www\CRM\bin\Debug\System.Numerics.Vectors.xml
+D:\UwAmp\www\CRM\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\UwAmp\www\CRM\obj\Debug\CRM.csproj.AssemblyReference.cache
+D:\UwAmp\www\CRM\obj\Debug\FenetreLogin.g.cs
+D:\UwAmp\www\CRM\obj\Debug\FenetrePrincipale.g.cs
+D:\UwAmp\www\CRM\obj\Debug\App.g.cs
+D:\UwAmp\www\CRM\obj\Debug\CRM_MarkupCompile.cache
+D:\UwAmp\www\CRM\obj\Debug\CRM_MarkupCompile.lref
+D:\UwAmp\www\CRM\obj\Debug\FenetreLogin.baml
+D:\UwAmp\www\CRM\obj\Debug\FenetrePrincipale.baml
+D:\UwAmp\www\CRM\obj\Debug\CRM.g.resources
+D:\UwAmp\www\CRM\obj\Debug\CRM.Properties.Resources.resources
+D:\UwAmp\www\CRM\obj\Debug\CRM.csproj.GenerateResource.cache
+D:\UwAmp\www\CRM\obj\Debug\CRM.csproj.CoreCompileInputs.cache
+D:\UwAmp\www\CRM\obj\Debug\CRM.csproj.CopyComplete
+D:\UwAmp\www\CRM\obj\Debug\CRM.exe
+D:\UwAmp\www\CRM\obj\Debug\CRM.pdb

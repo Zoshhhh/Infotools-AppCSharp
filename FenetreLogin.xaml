@@ -1,0 +1,20 @@
+﻿<Window x:Class="CRM.FenetreLogin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CRM"
+        mc:Ignorable="d"
+        Title="Login" Height="320" Width="300" FontSize="14" Background="#1E1E1E" WindowStartupLocation="CenterScreen" >
+    <Border Background="#333333" CornerRadius="20" Margin="20">
+        <StackPanel Margin="20">
+            <Label Content="Connexion" Foreground="#DDDDDD" FontSize="25" HorizontalAlignment="Center"/>
+            <Separator Foreground="#3C3C3C" Background="#3C3C3C"></Separator>
+            <Label Content="Nom d'utilisateur" Foreground="#DDDDDD"/>
+            <TextBox Name="TxtUsername" Background="#2B2B2B" Foreground="#DDDDDD" FontSize="18"/>
+            <Label Content="Mot de passe" Foreground="#DDDDDD"/>
+            <PasswordBox Name="TxtMdp" Background="#2B2B2B" Foreground="#DDDDDD" FontSize="18"/>
+            <Button Name="BtnSubmit" Content="Valider" Margin="60 10" Background="#007ACC" Foreground="#DDDDDD" FontSize="18" Click="BtnSubmit_Click"/>
+        </StackPanel>
+    </Border>
+</Window>
