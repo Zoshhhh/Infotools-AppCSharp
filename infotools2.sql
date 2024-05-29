@@ -19,6 +19,8 @@ SET time_zone = "+00:00";
 --
 -- Base de données :  `infotools2`
 --
+CREATE DATABASE IF NOT EXISTS `infotools2` DEFAULT CHARACTER SET utf8 COLLATE utf8_bin;
+USE `infotools2`;
 
 -- --------------------------------------------------------
 
