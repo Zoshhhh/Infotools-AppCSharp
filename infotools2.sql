@@ -75,7 +75,7 @@ CREATE TABLE `employe` (
 --
 
 INSERT INTO `employe` (`IdEmp`, `NomEmp`, `PrenomEmp`, `TelEmp`, `MailEmp`, `PosteEmp`) VALUES
-(1, 'lefevre', 'maxime', '0782191660', 'maximecampos91@hotmail.com', 'pdg'),
+(1, 'Nom0', 'Prenom0', '0101010101', 'email0@@example.com', 'Poste0'),
 (2, 'Nom1', 'Prenom1', '0101010101', 'email1@example.com', 'Poste1'),
 (3, 'Nom2', 'Prenom2', '0202020202', 'email2@example.com', 'Poste2'),
 (4, 'Nom3', 'Prenom3', '0303030303', 'email3@example.com', 'Poste3'),
